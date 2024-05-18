@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Mobile</string>
+    <string name="title_name1">Зоопарк</string>
+    <string name="returnList">Возврат на главную страницу</string>
+    <string name="recyclerview">Cats </string>
+    <string name="listview">Dogs</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="notification">Notifications</string>
+</resources>
